@@ -1,0 +1,93 @@
+h1 {
+    color: rgb(190, 190, 190);
+    font-family: 'Lilita One';
+    font-size: 35px;
+    overflow: hidden;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 1px;
+}
+
+h2 {
+    color: rgb(190, 190, 190);
+    font-family: 'Lilita One';
+    font-size: 30px;
+    overflow: hidden;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 0.5px;
+}
+
+h3 {
+    color: rgb(190, 190, 190);
+    font-family: 'Lilita One';
+    font-size: 27px;
+    overflow: hidden;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 0.5px;
+}
+
+.blub-text {
+    color: white;
+    font-family: 'Lilita One';
+    font-size: 23px;
+    overflow: hidden;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 1px;
+}
+
+code {
+    color: white;
+    font-family: 'JetBrains Mono';
+    font-size: 16px;
+    overflow: hidden;
+    background-color: #181818;
+    padding: 2px;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 0px;
+}
+
+.blub-text-center {
+    text-align: center;
+}
+
+.blub-card {
+    background-color: #505050;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+}
+
+.blub-block {
+    background-color: #333333;
+    padding: 10px;
+}
+
+.blub-voice-preview {
+    cursor: pointer;
+    display: grid;
+    padding: 5px;
+}
+
+.blub-voice-preview-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    padding: 5px;
+}
+
+.blub-sound-preview {
+    cursor: pointer;
+    display: grid;
+    padding: 5px;
+}
+
+.blub-sound-preview-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 5px;
+}
+
+body {
+    background-color: #202020;
+    max-width: 1100px;
+    margin: auto;
+}

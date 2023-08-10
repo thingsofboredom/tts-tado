@@ -1,0 +1,57 @@
+<html>
+
+<head>
+    <title>Text-to-Speech Tutorial</title>
+    <meta name="robots" content="noindex" />
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap" rel="stylesheet">
+    <link href="http://fonts.cdnfonts.com/css/jetbrains-mono" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div class="blub-block blub-text blub-text-center">
+        <div>
+            <h1>Selecting a voice</h1>
+            <p>You can select a voice by adding <code>VoiceName:</code>. Replace <code>VoiceName</code> with the actual name of the voice and keep the colon. Example:</p>
+            <code>
+            This text uses the default voice.
+            <span style="background-color: darkorchid;">Matthew: This text uses the Matthew voice.</span>
+            <span style="background-color: darkcyan">Ivy: And  this text uses the Ivy voice.</span>
+        </code>
+            <hr>
+        </div>
+
+        <div>
+            <h1>Sounds</h1>
+            <p>
+                You can also add sounds to your tts by adding the sound name in parentheses <code>(SoundName)</code>. Example:
+            </p>
+            <code>
+            Your funny message (fart) 
+            </code>
+            <p>
+                In this example <code>Your funny message</code> is getting read by the tts and then the sound <code>(fart)</code> is played.
+            </p>
+            <hr>
+        </div>
+
+        <div>
+            <h1>Available sounds</h1>
+            Click on the names to play a preview of the sound.<br>
+            <div id="sounds" class="blub-sound-preview-container"></div>
+        </div>
+
+        <div>
+            <h1>Available voices</h1>
+            Click on the names to play a preview of the voice.<br>
+            <div id="voices" class="blub-voice-preview-container"></div>
+            <hr>
+        </div>
+    </div>
+</body>
+
+</html>

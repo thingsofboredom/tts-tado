@@ -1,0 +1,219 @@
+{
+  "Arabic": [
+    "ar-XA-Wavenet-A",
+    "ar-XA-Wavenet-B",
+    "ar-XA-Wavenet-C"
+  ],
+  "Chinese, Mandarin": [
+    "Zhiyu",
+    "cmn-CN-Wavenet-A",
+    "cmn-CN-Wavenet-B",
+    "cmn-CN-Wavenet-C",
+    "cmn-CN-Wavenet-D"
+  ],
+  "Czech": [
+    "cs-CZ-Wavenet-A"
+  ],
+  "Danish": [
+    "Naja",
+    "Mads",
+    "da-DK-Wavenet-A"
+  ],
+  "Dutch": [
+    "Ruben",
+    "Lotte",
+    "nl-NL-Wavenet-A",
+    "nl-NL-Wavenet-B",
+    "nl-NL-Wavenet-C",
+    "nl-NL-Wavenet-D",
+    "nl-NL-Wavenet-E"
+  ],
+  "English (Australian)": [
+    "Russell",
+    "Nicole",
+    "en-AU-Wavenet-A",
+    "en-AU-Wavenet-B",
+    "en-AU-Wavenet-C",
+    "en-AU-Wavenet-D"
+  ],
+  "English (British)": [
+    "Emma",
+    "Brian",
+    "Amy",
+    "en-GB-Wavenet-A",
+    "en-GB-Wavenet-B",
+    "en-GB-Wavenet-C",
+    "en-GB-Wavenet-D"
+  ],
+  "English (Indian)": [
+    "Raveena",
+    "Aditi",
+    "en-IN-Wavenet-A",
+    "en-IN-Wavenet-B",
+    "en-IN-Wavenet-C"
+  ],
+  "English (US)": [
+    "Salli",
+    "Matthew",
+    "Kimberly",
+    "Kendra",
+    "Justin",
+    "Joey",
+    "Joanna",
+    "Ivy",
+    "en-US-Wavenet-A",
+    "en-US-Wavenet-B",
+    "en-US-Wavenet-C",
+    "en-US-Wavenet-D",
+    "en-US-Wavenet-E",
+    "en-US-Wavenet-F"
+  ],
+  "English (Welsh)": [
+    "Geraint"
+  ],
+  "Filipino": [
+    "fil-PH-Wavenet-A"
+  ],
+  "Finnish": [
+    "fi-FI-Wavenet-A"
+  ],
+  "French": [
+    "Mathieu",
+    "Celine",
+    "fr-FR-Wavenet-A",
+    "fr-FR-Wavenet-B",
+    "fr-FR-Wavenet-C",
+    "fr-FR-Wavenet-D"
+  ],
+  "French (Canadian)": [
+    "Chantal"
+  ],
+  "German": [
+    "Vicki",
+    "Marlene",
+    "Hans",
+    "de-DE-Wavenet-A",
+    "de-DE-Wavenet-B",
+    "de-DE-Wavenet-C",
+    "de-DE-Wavenet-D"
+  ],
+  "Greek": [
+    "el-GR-Wavenet-A"
+  ],
+  "Hindi": [
+    "hi-IN-Wavenet-A",
+    "hi-IN-Wavenet-B",
+    "hi-IN-Wavenet-C"
+  ],
+  "Hungarian": [
+    "hu-HU-Wavenet-A"
+  ],
+  "Icelandic": [
+    "Karl",
+    "Dora"
+  ],
+  "Indonesian": [
+    "id-ID-Wavenet-A",
+    "id-ID-Wavenet-B",
+    "id-ID-Wavenet-C"
+  ],
+  "Italian": [
+    "Giorgio",
+    "Carla",
+    "Bianca",
+    "it-IT-Wavenet-A",
+    "it-IT-Wavenet-B",
+    "it-IT-Wavenet-C",
+    "it-IT-Wavenet-D"
+  ],
+  "Japanese": [
+    "Takumi",
+    "Mizuki",
+    "ja-JP-Wavenet-A",
+    "ja-JP-Wavenet-B",
+    "ja-JP-Wavenet-C",
+    "ja-JP-Wavenet-D"
+  ],
+  "Korean": [
+    "Seoyeon",
+    "ko-KR-Wavenet-A"
+  ],
+  "Norwegian": [
+    "Liv",
+    "nb-no-Wavenet-E",
+    "nb-no-Wavenet-A",
+    "nb-no-Wavenet-B",
+    "nb-no-Wavenet-C",
+    "nb-no-Wavenet-D"
+  ],
+  "Polish": [
+    "Maja",
+    "Jan",
+    "Jacek",
+    "Ewa",
+    "pl-PL-Wavenet-A",
+    "pl-PL-Wavenet-B",
+    "pl-PL-Wavenet-C",
+    "pl-PL-Wavenet-D"
+  ],
+  "Portuguese (Brazilian)": [
+    "Vitoria",
+    "Ricardo"
+  ],
+  "Portuguese (European)": [
+    "Ines",
+    "Cristiano",
+    "pt-PT-Wavenet-A",
+    "pt-PT-Wavenet-B",
+    "pt-PT-Wavenet-C",
+    "pt-PT-Wavenet-D"
+  ],
+  "Romanian": [
+    "Carmen"
+  ],
+  "Russian": [
+    "Tatyana",
+    "Maxim",
+    "ru-RU-Wavenet-A",
+    "ru-RU-Wavenet-B",
+    "ru-RU-Wavenet-C",
+    "ru-RU-Wavenet-D"
+  ],
+  "Slovak": [
+    "sk-SK-Wavenet-A"
+  ],
+  "Spanish (European)": [
+    "Enrique",
+    "Conchita"
+  ],
+  "Spanish (Mexican)": [
+    "Mia"
+  ],
+  "Spanish (US)": [
+    "Penelope",
+    "Miguel"
+  ],
+  "Swedish": [
+    "Astrid"
+  ],
+  "Turkish": [
+    "Filiz",
+    "tr-TR-Wavenet-A",
+    "tr-TR-Wavenet-B",
+    "tr-TR-Wavenet-C",
+    "tr-TR-Wavenet-D",
+    "tr-TR-Wavenet-E"
+  ],
+  "Ukrainian": [
+    "uk-UA-Wavenet-A"
+  ],
+  "Vietnamese": [
+    "vi-VN-Wavenet-A",
+    "vi-VN-Wavenet-B",
+    "vi-VN-Wavenet-C",
+    "vi-VN-Wavenet-D"
+  ],
+  "Welsh": [
+    "Gwyneth"
+  ]
+}
